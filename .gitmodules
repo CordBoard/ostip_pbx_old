@@ -1,0 +1,3 @@
+[submodule "ostip_exari"]
+	path = ostip_exari
+	url = git@github.com:CordBoard/ostip_exari.git

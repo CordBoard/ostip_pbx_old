@@ -1,4 +1,4 @@
-FROM elixir:1.5
+FROM elixir:latest
 MAINTAINER YOUR_NAME_HERE
 RUN apt-get update && apt-get install --yes postgresql-client
 ADD . /app
